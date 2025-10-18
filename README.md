@@ -257,7 +257,7 @@ FREE INCOME BOT
             const tg = window.Telegram.WebApp;
 
             // --- Configuration ---
-            const BOT_TOKEN = "8000875346:AAFgyexqIN3ajNjlRtyF3wDJ-voVHgz9sAA";
+            const BOT_TOKEN = "";
             const BOT_USERNAME = "@mamun4644_bot"; // Your bot's username
             const ADMIN_CHAT_ID = "6872427149";
             const CHANNEL_LINK = "https://t.me/takaincome45";
